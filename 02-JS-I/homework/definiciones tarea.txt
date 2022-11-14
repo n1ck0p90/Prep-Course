@@ -1,0 +1,5 @@
+﻿Variable:Una variable es una forma de almacenar el valor de algo para usar más tarde,es un concepto fundamental de  programacion, las podemos ejemplificar o describir como cajas donde podes guardar cosas que si queresmos podemos remplazar por cosas parecidas mas adelante.
+strings: Son variables que permiten almacenar textos, asi podemos usarla para almacenar nombres, descripciones, textos que aparezcan en la interfaz grafica, siempre se definen entre comillas, ya sea doble o simple.
+Funciones:Una funcion es un conjunto de lineas de codigo que realizan una tarea especifica y pueden retornar algo, una funcion te ayuda a no tener que estar escribiendo el codigo una y otra vez.
+"If" o sentencias "If": Es un condicional; es la condicion que determina si se ejecuta o no la siguiente parte del codigo, de cumplirse con los requisitos si es verdadero o falso.
+Valores booleanos (true y false):Los booleanos son un tipo de dato primitivo comúnmente usado en lenguajes de programación. Por definición, un booleano tiene 2 posibles valores: true (verdadero) o false (falso).
